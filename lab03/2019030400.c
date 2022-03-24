@@ -128,6 +128,7 @@ void PrintList(List L) {    //print the list
             fprintf(output, "key:%d ", P->element);  //print elements of list
             P = P->next;    //step by step
         }
+        fprintf(output, "\n");
     }
 }
 
