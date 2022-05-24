@@ -1,0 +1,6 @@
+10 40 0 0 4 
+finding error : key 5 is not in the tree!
+finding error : key 32 is not in the tree!
+10 40 0 0 4 0 0 32 0 0 
+finding error : key 10 is not in the tree!
+10 40 0 0 4 0 0 32 0 0 29 
