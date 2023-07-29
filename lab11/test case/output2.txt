@@ -1,0 +1,7 @@
+insert 4
+insert 1
+insert 9
+insert 11
+insert error : 1 is already in the heap
+11 is in the heap
+finding error : 5 is not in the heap

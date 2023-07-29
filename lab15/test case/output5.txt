@@ -1,0 +1,53 @@
+insert 1 into address 1
+insert 11 into address 11
+insert 34 into address 34
+insert 4 into address 4
+13 is not in the table
+insert 15 into address 15
+34 is in the table
+insert 17 into address 17
+insert 23 into address 23
+insert 35 into address 35
+delete 23
+0 1 0 0 4 0 0 0 0 0 0 11 0 0 0 15 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 34 35 0 
+deletion error : 99 is not in the table
+insert 25 into address 25
+insert 8 into address 8
+insert 32 into address 32
+insert 24 into address 24
+insert 57 into address 20
+insert 97 into address 23
+1 is in the table
+25 is in the table
+deletion error : 80 is not in the table
+insert 68 into address 31
+insert 22 into address 22
+insert 66 into address 29
+0 1 0 0 4 0 0 0 8 0 0 11 0 0 0 15 0 17 0 0 57 0 22 97 24 25 0 0 0 66 0 68 32 0 34 35 0 
+delete 66
+64 is not in the table
+insertion error : 22 already exists at address 22
+insert 9 into address 9
+23 is not in the table
+insert 18 into address 18
+insert 77 into address 3
+insert 90 into address 16
+0 1 0 77 4 0 0 0 8 9 0 11 0 0 0 15 90 17 18 0 57 0 22 97 24 25 0 0 0 0 0 68 32 0 34 35 0 
+45 is not in the table
+insertion error : 8 already exists at address 8
+insertion error : 35 already exists at address 35
+insert 23 into address 26
+insert 16 into address 19
+0 1 0 77 4 0 0 0 8 9 0 11 0 0 0 15 90 17 18 16 57 0 22 97 24 25 23 0 0 0 0 68 32 0 34 35 0 
+delete 4
+delete 18
+deletion error : 85 is not in the table
+delete 35
+delete 17
+delete 24
+insertion error : 77 already exists at address 3
+insert 54 into address 17
+insert 31 into address 33
+deletion error : 66 is not in the table
+delete 22
+0 1 0 77 0 0 0 0 8 9 0 11 0 0 0 15 90 54 0 16 57 0 0 97 0 25 23 0 0 0 0 68 32 31 34 0 0 

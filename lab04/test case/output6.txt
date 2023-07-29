@@ -1,0 +1,2 @@
+top numbers : 2 5 8 9 0 5 -3 
+error : invalid postfix expression, stack is empty!

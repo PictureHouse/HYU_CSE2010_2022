@@ -1,0 +1,61 @@
+insert 10
+insert 20
+insert 30
+insert 40
+insert 50
+insert 60
+insert 70
+insert 80
+insert 90
+insert 100
+insert 1
+insert 11
+insert 21
+insert 31
+insert 41
+insert 51
+insert 61
+insert 71
+insert 81
+insert 91
+insert 5
+insert 15
+insert 26
+insert 35
+insert 45
+insert 55
+insert 65
+insert 75
+insert 85
+insert 95
+insert error : heap is full
+insert error : heap is full
+insert error : heap is full
+max element : 100 deleted
+max element : 95 deleted
+max element : 91 deleted
+max element : 90 deleted
+85 81 75 71 80 60 65 61 70 50 26 35 55 45 41 10 51 40 31 30 5 1 15 11 21 20 
+max element : 85 deleted
+max element : 81 deleted
+80 71 75 70 50 60 65 61 40 30 26 35 55 45 41 10 51 21 31 20 5 1 15 11 
+11 is in the heap
+21 is in the heap
+31 is in the heap
+max element : 80 deleted
+max element : 75 deleted
+max element : 71 deleted
+insert 24
+max element : 70 deleted
+max element : 65 deleted
+max element : 61 deleted
+max element : 60 deleted
+max element : 55 deleted
+51 50 45 40 30 35 41 15 31 21 26 20 24 11 5 10 1 
+insert 16
+insert 54
+insert 93
+93 54 45 50 51 35 41 15 40 30 26 20 24 11 5 10 1 16 31 21 
+max element : 93 deleted
+max element : 54 deleted
+51 50 45 40 30 35 41 15 31 21 26 20 24 11 5 10 1 16 

@@ -1,0 +1,2 @@
+top numbers : 1 2 3 6 -3 7 9 16 
+error : invalid postfix expression, 4 elements are left!

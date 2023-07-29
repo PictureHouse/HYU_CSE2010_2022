@@ -1,0 +1,104 @@
+i 3
+i 2
+pi
+f 2
+d 1
+d 4
+i 5
+pi
+i 9
+i 8
+i 7
+f 5
+d 5
+d 2
+d 3
+pi
+i 11
+i 21
+i 10
+f 2
+d 5
+d 6
+pi
+i 2
+i 3
+i 4
+f 11
+f 21
+d 21
+pi
+d 3
+i 3
+i 90
+i 98
+f 90
+d 98
+d 11
+pi
+d 4
+d 8
+i 4
+i 6
+i 8
+f 6
+d 2
+d 3
+pi
+d 6
+d 7
+d 8
+d 4
+d 45
+i 6
+i 7
+i 4
+f 9
+d 9
+d 7
+pi
+i 20
+i 24
+i 25
+f 24
+d 24
+d 6
+pi
+i 6
+i 7
+f 20
+d 20
+d 24
+pi
+i 3
+i 24
+i 15
+f 16
+d 16
+d 15
+pi
+i 34
+i 9
+f 11
+d 11
+d 24
+d 34
+pi
+i 1
+f 1
+d 1
+d 4
+pi
+i 45
+i 1
+f 5
+d 5
+d 6
+pi
+i 93
+i 23
+f 25
+d 25
+d 90
+pi
+

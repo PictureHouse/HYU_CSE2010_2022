@@ -1,0 +1,21 @@
+empty list!
+key of the previous node of 4 is head
+insertion(9) failed : can not find the location to be inserted
+key of the previous node of 3 is 4
+key:4 key:3 
+deletion(10) failed : element 10 is not in the list
+deletion(15) failed : element 15 is not in the list
+key of the previous node of 9 is 4
+key:4 key:9 key:3 key:5 
+key:8 key:4 key:9 key:7 key:3 key:5 
+key of the previous node of 8 is head
+finding(3) failed : element 3 is not in the list
+key of the previous node of 10 is head
+key:10 key:4 key:22 key:17 key:9 key:5 
+deletion(7) failed : element 7 is not in the list
+key:10 key:4 key:17 key:9 key:5 key:6 
+key of the previous node of 10 is 22
+key:22 key:5 key:10 key:4 key:17 key:9 key:6 key:32 
+key:22 key:5 key:10 key:4 key:17 key:9 key:32 
+key:19 key:22 key:5 key:10 key:4 key:17 key:9 key:32 
+key:22 key:5 key:10 key:4 key:17 key:9 key:32 

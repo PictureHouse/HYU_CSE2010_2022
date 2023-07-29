@@ -1,0 +1,15 @@
+deletion(3) failed : element 3 is not in the list
+deletion(4) failed : element 4 is not in the list
+empty list!
+deletion(8) failed : element 8 is not in the list
+finding(8) failed : element 8 is not in the list
+key:4 key:2 
+key of the previous node of 4 is 18
+key:18 key:4 key:2 key:5 
+key of the previous node of 2 is 18
+deletion(10) failed : element 10 is not in the list
+key:8 key:18 key:2 key:7 key:5 
+insertion(7) failed : the key already exists in the list
+deletion(5) failed : element 5 is not in the list
+key:18 key:7 
+key:18 

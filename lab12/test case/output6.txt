@@ -1,0 +1,10 @@
+3 5 7 9 
+key 5 found
+key 32 found
+3 5 7 9 0 0 32 55 
+finding error : key 29 is not in the tree!
+key 3 found
+3 5 7 9 0 0 29 0 13 24 0 0 24 0 0 38 
+3 5 7 9 0 0 29 0 13 24 0 0 24 0 0 26 0 49 0 39 
+finding error : key 10 is not in the tree!
+3 5 7 9 0 0 29 0 13 18 0 0 0 0 24 0 0 26 0 28 49 0 39 0 0 

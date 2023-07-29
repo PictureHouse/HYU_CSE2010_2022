@@ -1,0 +1,15 @@
+delete error : heap is empty
+print error : heap is empty
+insert 5
+insert 12
+insert 35
+insert 1
+insert 37
+37 35 12 1 5 
+max element : 37 deleted
+35 5 12 1 
+insert 29
+insert 50
+insert 25
+insert error : heap is full
+50 29 35 1 5 12 25 

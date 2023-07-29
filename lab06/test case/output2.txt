@@ -1,0 +1,17 @@
+insert 7
+insert 1
+insert 9
+insert 10
+1 7 9 10
+insert 11
+insert 4
+insert 2
+insert 5
+deletion error: 12 is not in the tree
+delete 11
+delete 10
+1 2 4 5 7 9
+finding error: 10 is not in the tree
+9 is in the tree
+insert 32
+1 2 4 5 7 9 32

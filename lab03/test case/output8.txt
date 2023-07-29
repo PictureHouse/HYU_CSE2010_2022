@@ -1,0 +1,35 @@
+key of the previous node of 4 is head
+key:4 
+deletion(3) failed : element 3 is not in the list
+insertion(1) failed : can not find the location to be inserted
+finding(1) failed : element 1 is not in the list
+key:10 key:4 
+finding(1) failed : element 1 is not in the list
+key:3 key:10 key:4 
+key of the previous node of 3 is head
+deletion(2) failed : element 2 is not in the list
+deletion(5) failed : element 5 is not in the list
+key:9 key:24 key:7 key:5 key:3 key:10 key:2 key:4 
+deletion(11) failed : element 11 is not in the list
+key:5 key:3 key:10 key:2 key:4 
+key of the previous node of 3 is 5
+finding(7) failed : element 7 is not in the list
+finding(24) failed : element 24 is not in the list
+key of the previous node of 14 is head
+deletion(7) failed : element 7 is not in the list
+key:14 key:5 key:12 key:10 key:2 key:4 
+key of the previous node of 19 is head
+finding(18) failed : element 18 is not in the list
+key:19 key:14 key:5 key:12 key:18 key:2 key:4 
+finding(1) failed : element 1 is not in the list
+key of the previous node of 2 is 18
+finding(11) failed : element 11 is not in the list
+insertion(30) failed : can not find the location to be inserted
+finding(30) failed : element 30 is not in the list
+key of the previous node of 31 is head
+key:31 key:19 key:14 key:5 key:12 key:18 key:2 key:4 
+key:19 key:14 key:5 key:12 key:18 key:2 key:4 
+finding(22) failed : element 22 is not in the list
+insertion(25) failed : can not find the location to be inserted
+deletion(25) failed : element 25 is not in the list
+key:26 key:19 key:14 key:5 key:12 key:18 key:2 key:4 

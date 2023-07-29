@@ -1,0 +1,53 @@
+insert 1
+insert 2
+insert 4
+insert 5
+insert 6
+insert 7
+insert 8
+insert 9
+insert 10
+insert 20
+insert 21
+insert 19
+insert 17
+insert error : 8 is already in the heap
+max element : 21 deleted
+insert 80
+insert 70
+insert 60
+insert 50
+insert 40
+insert 30
+insert 34
+insert 45
+insert 56
+insert 69
+insert 98
+insert error : 70 is already in the heap
+insert 39
+max element : 98 deleted
+max element : 80 deleted
+70 69 60 40 56 39 20 10 34 45 50 19 17 6 2 1 8 5 30 4 9 7 
+max element : 70 deleted
+max element : 69 deleted
+max element : 60 deleted
+max element : 56 deleted
+8 is in the heap
+10 is in the heap
+max element : 50 deleted
+max element : 45 deleted
+max element : 40 deleted
+39 34 20 10 30 19 6 8 5 4 7 9 17 1 2 
+max element : 39 deleted
+max element : 34 deleted
+max element : 30 deleted
+max element : 20 deleted
+19 10 17 8 7 9 6 1 5 4 2 
+max element : 19 deleted
+17 10 9 8 7 2 6 1 5 4 
+insert 29
+insert 50
+insert 25
+insert 24
+50 17 29 8 10 25 24 1 5 4 7 2 9 6 

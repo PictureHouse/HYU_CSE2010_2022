@@ -1,0 +1,10 @@
+insertion(4) failed : can not find the location to be inserted
+deletion(7) failed : element 7 is not in the list
+key of the previous node of 5 is head
+insertion(5) failed : the key already exists in the list
+deletion(3) failed : element 3 is not in the list
+deletion(9) failed : element 9 is not in the list
+key of the previous node of 3 is 10
+key of the previous node of 7 is 3
+key of the previous node of 2 is 7
+key:10 key:3 key:7 key:2 key:5 

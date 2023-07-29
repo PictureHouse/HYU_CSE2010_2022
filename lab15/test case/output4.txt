@@ -1,0 +1,33 @@
+insert 1 into address 1
+insert 11 into address 11
+insert 4 into address 4
+13 is not in the table
+insert 15 into address 15
+insert 17 into address 0
+insert 23 into address 6
+insert 35 into address 2
+17 1 35 0 4 0 23 0 0 0 0 11 0 0 0 15 0 
+insert 32 into address 16
+insert 24 into address 7
+insert 57 into address 10
+1 is in the table
+insert 68 into address 9
+insert 22 into address 5
+17 1 35 0 4 22 23 24 0 68 57 11 0 0 0 15 32 
+64 is not in the table
+insertion error : 22 already exists at address 5
+insert 9 into address 13
+23 is in the table
+insert 18 into address 3
+insert 77 into address 8
+insertion error : 35 already exists at address 2
+insertion error : 23 already exists at address 6
+insert 16 into address 14
+17 1 35 18 4 22 23 24 77 68 57 11 0 9 16 15 32 
+delete 4
+delete 18
+deletion error : 85 is not in the table
+delete 35
+delete 17
+delete 24
+0 1 0 0 0 22 23 0 77 68 57 11 0 9 16 15 32 

@@ -1,0 +1,53 @@
+deletion error: 5 is not in the tree
+insert 1
+insert 2
+finding error: 7 is not in the tree
+1 2
+deletion error: 4 is not in the tree
+insert 3
+1 is in the tree
+insert 5
+delete 3
+1 2 5
+1 2 5
+2 is in the tree
+insert 10
+insert 9
+1 2 5 9 10
+insert 32
+delete 2
+delete 10
+1 5 9 32
+9 is in the tree
+insert 113
+insert 18
+insert 23
+1 5 9 18 23 32 113
+delete 18
+23 is in the tree
+finding error: 18 is not in the tree
+1 5 9 23 32 113
+insert 231
+1 5 9 23 32 113 231
+insert 29
+deletion error: 21 is not in the tree
+insert 33
+23 is in the tree
+finding error: 20 is not in the tree
+1 5 9 23 29 32 33 113 231
+insert 44
+insert 66
+insert 77
+deletion error: 8 is not in the tree
+delete 9
+finding error: 4 is not in the tree
+1 5 23 29 32 33 44 66 77 113 231
+insert 28
+finding error: 7 is not in the tree
+1 5 23 28 29 32 33 44 66 77 113 231
+finding error: 30 is not in the tree
+finding error: 31 is not in the tree
+deletion error: 31 is not in the tree
+deletion error: 30 is not in the tree
+insert 310
+1 5 23 28 29 32 33 44 66 77 113 231 310

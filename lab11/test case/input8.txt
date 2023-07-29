@@ -1,0 +1,41 @@
+n 20
+d
+p
+p
+d
+i 5
+i 4
+i 9
+i 20
+d
+p
+d
+d
+d
+p
+d
+p
+i 10
+i 9
+i 4
+i 41
+d
+p
+d
+i 19
+p
+d
+d
+i 5
+d
+d
+p
+f 5
+f 10
+i 10
+p
+d
+f 10
+p
+d
+p

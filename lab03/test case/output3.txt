@@ -1,0 +1,18 @@
+empty list!
+insertion(3) failed : can not find the location to be inserted
+key of the previous node of 4 is head
+finding(3) failed : element 3 is not in the list
+insertion(5) failed : can not find the location to be inserted
+key:8 key:4 key:9 key:7 
+key of the previous node of 8 is head
+finding(9) failed : element 9 is not in the list
+finding(10) failed : element 10 is not in the list
+insertion(6) failed : can not find the location to be inserted
+deletion(7) failed : element 7 is not in the list
+key:4 key:17 
+deletion(5) failed : element 5 is not in the list
+finding(22) failed : element 22 is not in the list
+deletion(6) failed : element 6 is not in the list
+key:4 key:17 
+key:19 key:4 key:17 
+key:4 key:17 

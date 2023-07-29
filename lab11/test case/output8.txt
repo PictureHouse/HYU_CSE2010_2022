@@ -1,0 +1,40 @@
+delete error : heap is empty
+print error : heap is empty
+print error : heap is empty
+delete error : heap is empty
+insert 5
+insert 4
+insert 9
+insert 20
+max element : 20 deleted
+9 4 5 
+max element : 9 deleted
+max element : 5 deleted
+max element : 4 deleted
+print error : heap is empty
+delete error : heap is empty
+print error : heap is empty
+insert 10
+insert 9
+insert 4
+insert 41
+max element : 41 deleted
+10 9 4 
+max element : 10 deleted
+insert 19
+19 4 9 
+max element : 19 deleted
+max element : 9 deleted
+insert 5
+max element : 5 deleted
+max element : 4 deleted
+print error : heap is empty
+finding error : 5 is not in the heap
+finding error : 10 is not in the heap
+insert 10
+10 
+max element : 10 deleted
+finding error : 10 is not in the heap
+print error : heap is empty
+delete error : heap is empty
+print error : heap is empty

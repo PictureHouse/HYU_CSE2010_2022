@@ -1,0 +1,23 @@
+insert 1 into address 1
+insert 11 into address 0
+insert 4 into address 4
+insert 3 into address 3
+insert 5 into address 5
+insert 9 into address 9
+insert 22 into address -3
+insert 33 into address -6
+insert 44 into address -1
+insert 15 into address 8
+insert 13 into address 2
+insertion error : 3 already exists at address 3
+insert 22 into address 7
+64 is not in the table
+insert 22 into address 10
+insertion error : 9 already exists at address 9
+insert 18 into address -5
+insert 77 into address 6
+insertion error : table is full
+delete 4
+deletion error : 18 is not in the table
+deletion error : 85 is not in the table
+11 1 13 3 0 5 77 22 15 9 22 

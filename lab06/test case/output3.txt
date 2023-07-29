@@ -1,0 +1,28 @@
+insert 5
+insert 1
+insert 10
+1 5 10
+insert 11
+insert 2
+insert 6
+insert 4
+insert 3
+insert 7
+insert 112
+insert 23
+insert 9
+insert 14
+insert 91
+finding error: 19 is not in the tree
+1 is in the tree
+2 is in the tree
+3 is in the tree
+5 is in the tree
+11 is in the tree
+91 is in the tree
+1 2 3 4 5 6 7 9 10 11 14 23 91 112
+deletion error: 90 is not in the tree
+delete 91
+delete 23
+deletion error: 22 is not in the tree
+1 2 3 4 5 6 7 9 10 11 14 112

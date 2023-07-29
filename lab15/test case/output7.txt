@@ -1,0 +1,35 @@
+deletion error : 5 is not in the table
+insert 7 into address 7
+0 0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+insert 1 into address 1
+insert 11 into address 11
+insert 4 into address 4
+7 is in the table
+insert 15 into address 15
+0 1 0 0 4 0 0 7 0 0 0 11 0 0 0 15 0 0 0 0 0 0 0 
+insert 22 into address 22
+64 is not in the table
+insertion error : 22 already exists at address 22
+insert 9 into address 9
+insert 18 into address 18
+0 1 0 0 4 0 0 7 0 9 0 11 0 0 0 15 0 0 18 0 0 0 22 
+insert 77 into address 8
+insert 16 into address 16
+delete 4
+delete 18
+deletion error : 85 is not in the table
+0 1 0 0 0 0 0 7 77 9 0 11 0 0 0 15 16 0 0 0 0 0 22 
+insert 90 into address 21
+insert 80 into address 12
+insert 76 into address 10
+insert 94 into address 2
+deletion error : 18 is not in the table
+delete 22
+16 is in the table
+0 1 94 0 0 0 0 7 77 9 76 11 80 0 0 15 16 0 0 0 0 90 0 
+insert 5 into address 5
+insert 4 into address 4
+15 is in the table
+insert 17 into address 17
+delete 9
+0 1 94 0 4 5 0 7 77 0 76 11 80 0 0 15 16 17 0 0 0 90 0 
